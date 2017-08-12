@@ -1,0 +1,11 @@
+body{
+	background-color: rgb(255,255,102); 
+	text-align: center 
+}
+
+header{
+	width:960px;
+	height:200px;
+	background-color:rgba(0,204,204,.75); /* This is my comment */
+
+}

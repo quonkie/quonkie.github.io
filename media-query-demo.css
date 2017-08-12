@@ -1,0 +1,94 @@
+body{
+
+}
+
+#first{
+	color: rgb(255,0,0);
+	display:none;
+}
+
+#second{
+	color: rgb(0,255,0);
+	display:none;
+}
+
+#third{
+	color: rgb(0,0,255);
+	display:none;
+}
+
+#fourth{
+	color: rgb(255,0,255);
+	display:none;
+}
+
+@media all and (max-width:510px){
+
+	#first{
+		display:block;
+		font-size: 2em;
+	}
+
+	body{
+		background-color: #cccccc;
+	}
+
+
+}
+
+@media all and (min-width: 511px) and (max-width: 720px){
+
+	#second{
+		display: block;
+		font-size: 3em;
+	}
+
+	body{
+		background-color: green;
+	}
+}
+
+@media all and (min-width: 721px) and (max-width: 1200px){
+
+	#third{
+		display: block;
+		font-size: 5em;
+	}
+
+	body{
+		background-color: yellow;
+	}
+}
+
+@media all and (min-width: 1201px) and (max-width: 1500px){
+	#fourth{
+		display: block;
+		font-size: 7em;
+	}
+
+	body{
+		background-color: orange;
+	}
+}
+
+/*Things jotted down in Web lecture---504 is a good number to accomadate*/
+/*body::after{
+	position: absolute;width: 0; height: 0; overflow:hidden; z-index:-1;
+	content:url("") url("") url("");
+
+@media all and (min-width: 610px) and (max-width: ){
+	body{
+		background: url(""); no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: 
+		background-size: cover;
+		;
+	}
+
+}
+	
+}*/
+
+
+

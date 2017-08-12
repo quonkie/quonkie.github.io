@@ -1,0 +1,79 @@
+div{
+	width:960px;
+	text-align:center;
+}
+	
+body{
+	width:960px;
+	padding-top: 200px;
+    font-family: "Arial";
+	color:rgb(255,255,0);
+	background-image:url("alcoholwall.jpg");
+	font-family: "Arial";
+	color:rgb(255,255,0);
+	text-align:center;
+	/*background-color: rgba(153,153,255,.5)*/
+	/*background-image:url("../img2/denvernight.jpg")*/
+	} 
+
+header{
+	width:750px;
+	height:200px;
+	/*background-color:rgba(217,179,255,.98); /* This is my comment */
+	font-family: "Arial";
+	font-size:24pt;
+	text-align:center;
+
+}
+
+article{
+	width:960px;
+}
+
+
+
+h2{
+	font-family: "Arial";
+	color:rgb(255,255,255);
+	text-align:center;
+	background-color: rgba(153,153,255,.5)
+	margin: 10px auto 10px auto;
+}
+
+
+h1{
+	font-family: "Arial";
+	color:rgb(255,255,255);
+	text-align:center;
+	font-size:40pt;
+	background-color: rgba(153,153,255,.5)
+    margin: 10px auto 10px auto;
+}
+
+
+p{
+	font-family: "Arial";
+	color:rgb(255,255,255);
+	text-align:center;
+	background-color: rgba(153,153,255,.5)
+	margin: 10px auto 10px auto;
+}
+
+
+a{
+	font-family: "Arial";
+	color:rgb(255,255,255);
+	text-align:center;
+	font-size:30pt;
+	background-color: rgba(153,153,255,.5)
+	margin: 10px auto 10px auto;
+}
+
+link{ 
+font-family: "Arial";
+	color:rgb(255,255,255);
+	text-align:center;
+	font-size:30pt;
+	background-color: rgba(153,153,255,.5)
+	margin: 10px auto 10px auto;
+ }
