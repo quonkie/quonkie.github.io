@@ -1,0 +1,64 @@
+@font-face{
+	font-family: FontleroyBrown;
+	src: url(FontleroyBrown.ttf);
+}
+
+div{
+	width:100%;
+}
+
+head{
+	text-align: center;
+}
+body{
+	background-color: rgb(254,246,91);  
+	background-image: url("polytexture.png");
+	
+
+}
+
+h1{
+	font-family: FontleroyBrown;
+	text-align: center;
+	font-size: 72px;
+}
+
+
+h2{
+	font-family: FontleroyBrown;
+	text-align: center;
+	font-size: 45px;
+}
+
+img{
+	text-align: center;
+}
+
+figure{
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+p{
+	text-align: center;
+	font-size: 20px;
+	/*width: 600px;
+	text-align: center;
+	margin-left: 200px;
+	margin-right:0px;*/
+
+
+
+
+}
+
+h4{
+	font-family: FontleroyBrown;
+	text-align: center;
+	font-size: 48px;
+}
+
+h3{
+text-align: center;
+}

@@ -1,0 +1,45 @@
+body{
+	background-color:rgb(254,246,91)
+	opacity:0.9;
+	background-attachment: fixed;
+	background-clip: border-box;
+	background-size: cover;
+	font-family: "Didot", helvetica, arial, georgia, sans-serif;
+	display: block;
+	margin:8px;
+}
+#container{
+	width:960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div{
+	display: block;
+}
+
+.fullwidth{
+	width:940px;
+	margin:10px;
+	padding:10px;
+	box-sizing:border-box;
+	background-color: rgba(255,255,255,0.5);
+}
+
+header{
+	height:100px;
+	font-family:"Didot", helvetica,arial,georgia, sans-serif;
+	color: rgb(93,59,105);
+    font-size: 16pt;
+    text-align: center;
+}
+
+figure{
+	display: inline-block;
+	font-family: 
+	text-align: center;
+	-webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 40px;
+    -webkit-margin-end: 40px;
+}

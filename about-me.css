@@ -1,0 +1,68 @@
+div{
+	width:960px;
+}
+
+head{
+	text-align: center;
+}
+body{
+	background-color: rgb(255,255,102);  
+	background-image:url("../img/polytexture.png")
+
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+text-align: center;
+}
+
+section{
+	text-align: center;
+}
+
+a{
+text-align: center;
+
+}
+
+img{
+	text-align: center;
+}
+
+figure{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+header{
+	width:960px;
+	height:200px;
+	text-align:center;
+	background-color:rgba(254,246,91,.75); /* This is my comment */
+	font-family: "Times New Roman"
+	font-size:24pt;
+
+}
+
+article{
+	width:960px;
+	text-align:center;
+}
+
+section{
+	
+}
+
+article{
+	
+}
